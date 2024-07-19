@@ -12,7 +12,7 @@ if select ==1:
     print("addition is ", a+b)
 
 elif select ==2:
-    print("subtraction is ",b-a)
+    print("subtraction is ",a-b)
 
 elif select ==3:
     print("multiply is ",a*b)
